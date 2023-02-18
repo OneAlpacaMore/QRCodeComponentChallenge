@@ -6,7 +6,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -21,11 +20,6 @@ The main objective of this challenge, is to made similar looking webpage to the 
 ### Screenshot
 This was the final result:
 ![](./screenshot.jpg)
-
-### Links
-
-- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-challenge-using-vanilla-htmlcss-GOLkVwESt6](https://your-solution-url.com)
-- Live Site URL: [https://onealpacamore.github.io/QRCodeComponentChallenge/](https://your-live-site-url.com)
 
 ## My process
 
