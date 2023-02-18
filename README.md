@@ -19,7 +19,7 @@ Note: English is not my first language, I do my best to provide all the explanat
 ## Overview
 The main objective of this challenge, is to made similar looking webpage to the designs present in the "design folder". You are allowed to use any framework and library you want.    
 ### Screenshot
-You can found the final result in the following route;
+This was the final result:
 ![](./screenshot.jpg)
 
 ### Links
@@ -84,7 +84,7 @@ For now, I'm satisfied with the final result. Im looking forward to do more exer
 ### Useful resources
 
 - [CSS box-shadow Property](https://www.w3schools.com/cssref/css3_pr_box-shadow.php) - This helped me with the box-shadow property. 
-- [Example resource 2](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This is an amazing article help me to understand a little bit more about Flexbox works.
+- [A complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This is an amazing article help me to understand a little bit more about Flexbox works.
 
 
 ## Author
